@@ -1,4 +1,4 @@
-public class Court {
+public class  Court {
     private String sportType;
     private boolean isAvailable;
 

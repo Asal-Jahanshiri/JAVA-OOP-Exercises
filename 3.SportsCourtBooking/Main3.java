@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main3 {
+public class  Main3 {
     private static Scanner scanner = new Scanner(System.in);
     private static Admin3 admin = new Admin3();
     private static List<Player> players = new ArrayList<>();
@@ -12,7 +12,7 @@ public class Main3 {
             System.out.println("\n--- Sports Court Booking ---");
             System.out.println("1. Add Court (Admin)");
             System.out.println("2. View Courts");
-            System.out.println("3. Book Court (Player)");
+            System.out.println("3. Book Court (Player) ");
             System.out.println("4. Exit");
             System.out.print("Choose an option: ");
 

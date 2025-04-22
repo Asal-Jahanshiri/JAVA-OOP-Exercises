@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Admin3 {
+public class  Admin3 {
     private List<Court> courts;
 
     public Admin3() {

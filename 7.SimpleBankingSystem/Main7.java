@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main7 {
+public class  Main7 {
     public static void main(String[] args) {
         Bank bank = new Bank();
         Scanner scanner = new Scanner(System.in);
